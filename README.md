@@ -1,6 +1,9 @@
-# Ionic Stencil Conference App
+# VDI-Framework 
+Victor Diao Ionic Framework
 
-A conference app built with Stencil to demonstrate Ionic
+# From Ionic Stencil Conference App
+
+A conference app built with Stencil to demonstrate Ionic.
 
 ## Getting Started
 

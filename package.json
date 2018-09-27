@@ -1,11 +1,11 @@
 {
-  "name": "ionic-stencil-conference-app",
+  "name": "vdi-framework",
   "private": true,
   "version": "0.0.1",
-  "description": "Stencil App Starter",
+  "description": "Victor Diao Ionic Framework App Starter",
   "scripts": {
-    "build": "stencil build",
-    "dev": "stencil build --dev --watch --serve",
+    "build": "stencil build --es5",
+    "dev": "stencil build --dev --es5 --watch --serve",
     "start": "npm run dev",
     "serve": "stencil serve --root www",
     "deploy": "npm run build && firebase deploy",
@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-app-starter.git"
+    "url": "git+https://github.com/victordpg/ionic-stencil-conference-app.git"
   },
   "author": "Ionic Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-team/stencil"
+    "url": "https://github.com/victordpg"
   },
-  "homepage": "https://github.com/ionic-team/stencil",
+  "homepage": "https://github.com/victordpg",
   "jest": {
     "transform": {
       "^.+\\.(ts|tsx)$": "<rootDir>/node_modules/@stencil/core/testing/jest.preprocessor.js"

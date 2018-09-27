@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.conferenceapp",
-  "appName": "ConferenceApp",
+  "appId": "com.framework.vdi",
+  "appName": "VDIApp",
   "bundledWebRuntime": false,
   "webDir": "www"
 }
